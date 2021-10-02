@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = helene.delachapelle@edhec.com
+	name = Helene Delachapelle
